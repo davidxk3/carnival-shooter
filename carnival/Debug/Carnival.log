@@ -1,0 +1,64 @@
+﻿  CubeMesh.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\CubeMesh.cpp(56,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\CubeMesh.cpp(64,19): warning C4305: '=': truncation from 'double' to 'float'
+  DuckTarget.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\inc\DuckTarget.h(42,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/DuckTarget.cpp')
+  
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(67,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(70,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(70,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(70,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(101,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(101,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(101,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(106,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(106,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(106,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(114,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(114,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(114,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(118,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(118,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(128,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(128,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(131,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(131,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(131,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(144,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(144,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(150,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(150,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(150,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\DuckTarget.cpp(169,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Gun.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\Gun.h(17,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'src/Gun.cpp')
+  
+  TargetShoot.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\inc\DuckTarget.h(42,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/TargetShoot.cpp')
+  
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\Gun.h(17,21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'src/TargetShoot.cpp')
+  
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(619,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(651,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1097,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1098,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1137,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1137,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1138,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\TargetShoot.cpp(1139,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Matrices.cpp
+  QuadMesh.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\QuadMesh.cpp(53,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\QuadMesh.cpp(75,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\QuadMesh.cpp(137,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\QuadMesh.cpp(143,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  SineWaveStrip.cpp
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\SineWaveStrip.cpp(67,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\src\SineWaveStrip.cpp(73,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Carnival.vcxproj -> C:\Users\David\Desktop\CPS511 Assignments\git\Duck Carnival\carnival\bin\Carnivald.exe
