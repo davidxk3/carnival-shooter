@@ -1,7 +1,6 @@
 # Instructions on how to run 
 1. Download source code
 2. Install **feature Libraries:** freeglut-2.8.1, glew-1.10.0, glm-0.9.5.1, SDL3-3.2.26, SOIL and put them in a file called **extern** on same level as carnival and carnival.sln
-2. Install **feature libraries:** freeglut-2.8.1, glew-1.10.0, glm-0.9.5.1, SDL3-3.2.26, SOIL and put them in a file called **extern** on same level as carnival and carnival.sln
 3. Open with Visual Studio Code (preferably 2022)
 4. Set Carnival to be main startup project ("Set as startup project")
 5. Build and compile program (enjoy!)
